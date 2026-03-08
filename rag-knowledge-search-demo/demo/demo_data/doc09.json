@@ -1,0 +1,11 @@
+{
+  "id": "doc09",
+  "title": "業務メモ_RAG段階導入",
+  "category": "memo",
+  "source": "sample",
+  "date": "2026-03-05",
+  "tags": ["RAG", "検索", "改善"],
+  "summary": "RAGの段階導入メモ",
+  "content": "まずはキーワード検索を公開デモとして構築し、その後にEmbedding検索を追加する。初期段階ではUIとデータ構造を整え、将来拡張しやすい構成を優先する。",
+  "public_note": "公開用サンプルデータ"
+}
